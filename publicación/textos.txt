@@ -1,0 +1,27 @@
+Descripción
+===========
+Permite la búsqueda de direcciones postales en todos los municipios de Andalucía utilizando la información de vías y portales del proyecto CDAU (Callejero Digital de Andalucía Unificado).
+
+Se trata del callejero digital con mayor nivel de detalle (al incluir la información de los portales), de mayor cobertura (al recoger la información de todos los municipios andaluces y, en cada uno de ellos, del núcleo principal y otros secundarios) y más actualizado (con un sistema de mantenimiento en el que participan los Ayuntamientos, las Diputaciones Provinciales y la Junta de Andalucía).  Más información del proyecto en: http://www.callejerodeandalucia.es/portal/web/cdau"
+
+También es posible localizar otros puntos de interés, además de direcciones postales, a partir de los datos procedentes del producto DERA (Datos Espaciales de Referencia de Andalucía).
+
+La aplicación ha sido desarrollada por la DG de Política Digital usando tecnología del proyecto SIG Corporativo de la Junta de Andalucía.
+
+Descripción breve
+=================
+*******Callejero*******
+
+Notas de versión
+=================
+Versión inicial
+
+****añadir algo aquí si se publica en forma de actualización***
+
+Sitio web
+=========
+http://www.callejerodeandalucia.com
+
+Correo electrónico
+==================
+l-dirsigc.chap@juntadeandalucia.es
