@@ -1,5 +1,13 @@
-Descripción
+Título (30)
 ===========
+Callejero Digital de Andalucía
+
+Descripción breve (80)
+======================
+Búsqueda de direcciones postales en todos los municipios de Andalucía
+
+Descripción completa (4000)
+===========================
 Permite la búsqueda de direcciones postales en todos los municipios de Andalucía utilizando la información de vías y portales del proyecto CDAU (Callejero Digital de Andalucía Unificado).
 
 Se trata del callejero digital con mayor nivel de detalle (al incluir la información de los portales), de mayor cobertura (al recoger la información de todos los municipios andaluces y, en cada uno de ellos, del núcleo principal y otros secundarios) y más actualizado (con un sistema de mantenimiento en el que participan los Ayuntamientos, las Diputaciones Provinciales y la Junta de Andalucía).  Más información del proyecto en: http://www.callejerodeandalucia.es/portal/web/cdau"
@@ -7,10 +15,6 @@ Se trata del callejero digital con mayor nivel de detalle (al incluir la informa
 También es posible localizar otros puntos de interés, además de direcciones postales, a partir de los datos procedentes del producto DERA (Datos Espaciales de Referencia de Andalucía).
 
 La aplicación ha sido desarrollada por la DG de Política Digital usando tecnología del proyecto SIG Corporativo de la Junta de Andalucía.
-
-Descripción breve
-=================
-*******Callejero*******
 
 Notas de versión
 =================
