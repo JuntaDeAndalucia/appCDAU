@@ -24,8 +24,8 @@ Versión inicial
 
 Sitio web
 =========
-http://www.callejerodeandalucia.com
+http://www.callejerodeandalucia.es
 
 Correo electrónico
 ==================
-l-dirsigc.chap@juntadeandalucia.es
+cdau.ieca@juntadeandalucia.es
