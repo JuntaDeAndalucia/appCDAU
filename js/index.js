@@ -10,24 +10,16 @@ var app = {
     },
     onDeviceReady: function() {
 	//console.log("Ready!");
-	//iframeMapa = document.createElement('iframe');
-	//iframeMapa.id="imapa";
-	//iframeMapa.scrolling='no';	
-	//document.getElementById('divMapa').appendChild(iframeMapa);
-        var sigcMap = new Mapea.SigcMapea('divMapa');
-	sigcMap.addWmcfiles(['callejerocacheado','ortofoto']);
-	sigcMap.addLayers(['WMS*Fuentes*http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/conocetusfuentes/wms?*fuentesymanantiales*true*false']);
-	sigcMap.addControls(['navtoolbar','panzoombar','mouse','layerswitcher']);	
-	sigcMap.addGetfeatureinfo('html'); //sigcMap.addGetfeatureinfo('plain');
-	sigcMap.setZoom(5);
-	StatusBar.hide();
-	navigator.splashscreen.hide();
-	/*iframeMapa.onload=function(){
+	iframeMapa = document.createElement('iframe');
+	iframeMapa.id="imapa";
+	iframeMapa.scrolling='no';	
+	document.getElementById('divMapa').appendChild(iframeMapa);
+	iframeMapa.onload=function(){
 		//console.log('loaded');
 		StatusBar.hide();
 		navigator.splashscreen.hide();
-	};*/
-	//navigator.geolocation.getCurrentPosition(setMap, setMapNoLocation, {maximumAge: 15000, timeout: 5000, enableHighAccuracy:true});
+	};
+	navigator.geolocation.getCurrentPosition(setMap, setMapNoLocation, {maximumAge: 15000, timeout: 5000, enableHighAccuracy:true});
     }
 };
 
