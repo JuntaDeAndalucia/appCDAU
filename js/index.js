@@ -16,7 +16,6 @@ var app = {
 	document.getElementById('divMapa').appendChild(iframeMapa);
 	iframeMapa.onload=function(){
 		//console.log('loaded');
-		StatusBar.hide();
 		navigator.splashscreen.hide();
 	};
 	navigator.geolocation.getCurrentPosition(setMap, setMapNoLocation, {maximumAge: 15000, timeout: 5000, enableHighAccuracy:true});
