@@ -12,7 +12,7 @@
 	<author email="l-dirsigc.chap@juntadeandalucia.es" href="http://www.juntadeandalucia.es">
 		Junta de Andalucía
 	</author>
-	<content src="http://mapea-sigc.juntadeandalucia.es/?geosearch" />
+	<content src="index.html" />
 	<access origin="*" />
 	<icon src="resources/icon.png" /><!--Adaptar a resoluciones?-->
 
