@@ -52,10 +52,10 @@
 	<gap:splash src="resources/iOS/screen_land.png" gap:platform="ios" width="2048" height="1536" />
 
 <!-- PLUGINS -->
-	<gap:plugin name="cordova-plugin-splashscreen" source="npm"/>
-	<gap:plugin name="cordova-plugin-geolocation" source="npm"/>
-	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
-	<gap:plugin name="cordova-plugin-statusbar" source="npm"/>
+	<gap:plugin name="cordova-plugin-splashscreen" source="npm" version="2.0.0"/>
+	<gap:plugin name="cordova-plugin-geolocation" source="npm" version="1.0.0"/>
+	<gap:plugin name="cordova-plugin-inappbrowser" source="npm" version="1.0.0"/>
+	<gap:plugin name="cordova-plugin-statusbar" source="npm" version="1.0.0"/>
 	
 <!-- CONFIGS -->	
 	<gap:config-file platform="ios" parent="UIStatusBarHidden">
