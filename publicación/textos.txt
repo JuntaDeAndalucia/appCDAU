@@ -16,6 +16,10 @@ También es posible localizar otros puntos de interés, además de direcciones p
 
 La aplicación ha sido desarrollada por la DG de Política Digital usando tecnología del proyecto SIG Corporativo de la Junta de Andalucía.
 
+Etiquetas	
+===========
+callejero, andalucía, cdau.
+
 Notas de versión
 =================
 Versión inicial
